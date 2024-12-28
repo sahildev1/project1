@@ -1,0 +1,66 @@
+.hero h1 {
+  color: #5e6282;
+  font-size: 30;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero {
+  background-color: rgba(159, 255, 236, 0.4);
+
+  width: 650px;
+  height: 250px;
+  border-radius: 129px 20px 20px 20px;
+  padding: 50px 0px 20px 150px;
+  position: relative;
+  top: 100px;
+  left: 300px;
+}
+
+.sub {
+  width: 110px;
+  height: 37px;
+  background-color: #00a651;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  position: absolute;
+}
+
+.but {
+  border: none;
+  width: 220px;
+  height: 37px;
+  font-size: small;
+  padding: 0px 5px 0px 30px;
+  margin-left: 60px;
+  margin-bottom: 30px;
+}
+
+.icon {
+  position: absolute;
+  left: 215px;
+  bottom: 91px;
+  opacity: 0.4;
+}
+
+.fa-brands {
+  position: absolute;
+  bottom: 143px;
+
+  left: 383px;
+  font-size: 45px;
+  color: rgba(0, 166, 81, 1);
+}
+.group {
+  width: 100px;
+  height: 100px;
+  color: red;
+  position: absolute;
+  top: 100px;
+  bottom: 100px;
+  display: ;
+}
